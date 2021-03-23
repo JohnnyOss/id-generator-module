@@ -1,0 +1,8 @@
+{
+  "name": "@johnnyoss/randomid-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JohnnyOss/id-generator-module.git",
+  "author": "Jan Ossolinski <ossolinski.jan@gmail.com>",
+  "license": "MIT"
+}
